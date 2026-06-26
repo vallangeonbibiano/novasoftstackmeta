@@ -1,0 +1,19 @@
+{
+  "name": "novasoftstackmeta",
+  "short_name": "novasoft",
+  "description": "Minimalist Design · Privacy First · Experience Above All",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "productivity", "developer"]
+}
