@@ -1,2 +1,4 @@
 # mate
 facebook.com, 1513482720256347, DIRECT, c3e20eee3f780d68
+#Google
+google.com, pub-2448812919601465, DIRECT, f08c47fec0942fa0
